@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech on 人間になれるかな</title><link>/categories/tech/</link><description>Recent content in Tech on 人間になれるかな</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 Sumi-Sumi</copyright><lastBuildDate>Thu, 21 Mar 2024 18:13:35 +0900</lastBuildDate><atom:link href="/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugoの環境構築+記事テンプレート</title><link>/posts/2024/03/created-blog-by-hugo/</link><pubDate>Thu, 21 Mar 2024 18:13:35 +0900</pubDate><guid>/posts/2024/03/created-blog-by-hugo/</guid><description>なにこれ # HugoとGitHub Pagesでサイトを公開したよ nix flakeで執筆環境を構築したよ GitHub actionsを使って文章の公正をできるようにしたよ モチベ # nix flakeで環境を固めてどのPCでも執筆できるようにする 少なくとも誤字脱字は無くして読みやすい文章にする サイト構築 # Hugo + GitHub Pagesで構築しました。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on 人間になれるかな</title>
+    <link>//localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on 人間になれるかな</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 Sumi-Sumi</copyright>
+    <lastBuildDate>Thu, 21 Mar 2024 18:13:35 +0900</lastBuildDate><atom:link href="//localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoの環境構築&#43;記事テンプレート</title>
+      <link>//localhost:1313/posts/2024/03/created-blog-by-hugo/</link>
+      <pubDate>Thu, 21 Mar 2024 18:13:35 +0900</pubDate>
+      
+      <guid>//localhost:1313/posts/2024/03/created-blog-by-hugo/</guid>
+      <description>なにこれ # HugoとGitHub Pagesでサイトを公開したよ nix flakeで執筆環境を構築したよ GitHub actionsを使って文章の公正をできるようにしたよ モチベ # nix flakeで環境を固めてどのPCでも執筆できるようにする 少なくとも誤字脱字は無くして読みやすい文章にする サイト構築 # Hugo + GitHub Pagesで構築しました。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

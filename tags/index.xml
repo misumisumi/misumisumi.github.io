@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 人間になれるかな</title><link>/tags/</link><description>Recent content in Tags on 人間になれるかな</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 Sumi-Sumi</copyright><lastBuildDate>Fri, 05 Jul 2024 00:03:26 +0900</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>備忘録</title><link>/tags/%E5%82%99%E5%BF%98%E9%8C%B2/</link><pubDate>Fri, 05 Jul 2024 00:03:26 +0900</pubDate><guid>/tags/%E5%82%99%E5%BF%98%E9%8C%B2/</guid><description/></item><item><title>Tech</title><link>/tags/tech/</link><pubDate>Sat, 23 Mar 2024 19:28:18 +0900</pubDate><guid>/tags/tech/</guid><description/></item><item><title>Authors</title><link>/tags/authors/</link><pubDate>Tue, 19 Mar 2024 16:36:24 +0900</pubDate><guid>/tags/authors/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 人間になれるかな</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on 人間になれるかな</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 Sumi-Sumi</copyright>
+    <lastBuildDate>Fri, 05 Jul 2024 00:03:26 +0900</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>備忘録</title>
+      <link>//localhost:1313/tags/%E5%82%99%E5%BF%98%E9%8C%B2/</link>
+      <pubDate>Fri, 05 Jul 2024 00:03:26 +0900</pubDate>
+      
+      <guid>//localhost:1313/tags/%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>//localhost:1313/tags/tech/</link>
+      <pubDate>Sat, 23 Mar 2024 19:28:18 +0900</pubDate>
+      
+      <guid>//localhost:1313/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>//localhost:1313/tags/authors/</link>
+      <pubDate>Tue, 19 Mar 2024 16:36:24 +0900</pubDate>
+      
+      <guid>//localhost:1313/tags/authors/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
